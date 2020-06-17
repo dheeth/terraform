@@ -1,0 +1,4 @@
+Task1/mykey.pem
+Task1/.terraform
+Task1/*.tfstate
+Task1/*.tfstate.backup
